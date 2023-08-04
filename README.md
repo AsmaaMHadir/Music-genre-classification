@@ -44,4 +44,4 @@ The end goal of the project is to utilize classification algorithms and techniqu
 - **valence**: Valence measures the musical positiveness or happiness of a track. Higher values indicate more positive and cheerful music, while lower values indicate more negative or sad music.
 
 ## ML Task:
-Our task is to classify input musical tracks into their corresponding genre. This is a classification problem since the values we are trying to predict are discrete.
+Our task is to classify input musical tracks into their corresponding genre. This is a classification problem since the values we are trying to predict are discrete. Specifically, we use a random forest classifier to perform this task since this algorithm suits the diversity of samples and features of our selected dataset.
