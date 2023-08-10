@@ -1,5 +1,3 @@
-# Music-genre-classification
-Flask app to predict the genre of a given track based on a set of features
 
 # Understanding the problem statement
 The dataset contains recors documenting musical tracks alognside their information such as the track's title, artist, danceability, key and more. The goal of this project is to understand how these features are pre-determinal of the genre to which the music track belongs to. 
